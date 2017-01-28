@@ -1,0 +1,24 @@
+{
+  "name": "hyper-nord",
+  "version": "1.0.0",
+  "description": "The Nord Theme for Hyper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pddstudio/hyper-nord.git"
+  },
+  "keywords": [
+    "hyper",
+    "hyperterm",
+    "hyper-nord"
+  ],
+  "author": "Patrick J",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pddstudio/hyper-nord/issues"
+  },
+  "homepage": "https://github.com/pddstudio/hyper-nord#readme"
+}
