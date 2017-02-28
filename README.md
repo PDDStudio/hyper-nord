@@ -9,6 +9,10 @@
 
 Add `hyper-nord` to the plugins array in your `~/.hyper.js` config.
 
+## Deprecation Note
+
+In meanwhile there is an [official Theme](https://github.com/arcticicestudio/nord-hyper) based on 'Nord' colors by Arctic Ice Studio.
+This means you can still use this version of the 'Nord' color schemes, but if you want to have an up-to-date version it's recommended to switch over to the official one.
 
 ##License
     Copyright © 2017 Patrick J
