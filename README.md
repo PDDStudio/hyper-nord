@@ -1,4 +1,4 @@
-# hyper-nord [![npm](https://img.shields.io/npm/v/hyper-nord.svg?maxAge=86400?style=flat-square)](https://www.npmjs.com/package/hyper-nord)  [![npm](https://img.shields.io/npm/dm/hyper-nord.svg?maxAge=86400?style=flat-square)](https://www.npmjs.com/package/hyper-nord)
+# hyper-nord [![npm](https://img.shields.io/npm/v/hyper-nord.svg?maxAge=86400?style=flat-square)](https://www.npmjs.com/package/hyper-nord)  [![npm](https://img.shields.io/npm/dm/hyper-nord.svg?maxAge=86400?style=flat-square)](https://www.npmjs.com/package/hyper-nord) [![Greenkeeper badge](https://badges.greenkeeper.io/PDDStudio/hyper-nord.svg)](https://greenkeeper.io/)
 
 > Terminal Theme for [Hyper](https://hyper.is) based on [Nord](https://github.com/arcticicestudio/nord) color schemes.
 
